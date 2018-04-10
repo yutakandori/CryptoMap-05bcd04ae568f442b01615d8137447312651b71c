@@ -12,7 +12,6 @@
         <li class="<%= 'active' if controller?("listings") && action?("address") %>"><li><%= link_to "住所情報", manage_listing_address_path(@listing) %></li>
         <li class="<%= 'active' if controller?("listings") && action?("price") %>"><li><%= link_to "料金", manage_listing_price_path(@listing) %></li>
         <li class="<%= 'active' if controller?("listings") && action?("photos") %>"><li><%= link_to "写真", manage_listing_photos_path(@listing),data:{"turbolinks" => false} %></li>
-        <li class="<%= 'active' if controller?("listings") && action?("calender") %>"><li><%= link_to "カレンダー", manage_listing_calender_path(@listing) %></li>
         <li class="<%= 'active' if controller?("listings") && action?("bankaccount") %>"><li><%= link_to "受取口座情報", manage_listing_bankaccount_path(@listing) %></li>
         <li class="<%= 'active' if controller?("listings") && action?("publish") %>"><li><%= link_to "公開する", manage_listing_publish_path(@listing) %></li>
       </ul>
