@@ -5,45 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6344a8af-799f-4b9a-bd0b-b436376bdb68" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/conversations_controller.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/messages_controller.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/controllers/reviews_controller.rb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/ajaxsearch.html.erb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/conversations/index.html.erb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/messages/_message.html.erb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/messages/create.js.erb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/messages/index.html.erb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/pages/_filter.html.erb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/pages/_footer.html.erb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/pages/_list.html.erb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/pages/search.html.erb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/reviews/_form.html.erb" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/reviews/_list.html.erb" />
-      <change beforePath="$PROJECT_DIR$/.idea/dataSources/a214cfc1-3722-4997-b883-de759d455e90.xml" afterPath="$PROJECT_DIR$/.idea/dataSources/a214cfc1-3722-4997-b883-de759d455e90.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change beforePath="$PROJECT_DIR$/app/assets/javascripts/application.js" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
-      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/application.scss" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.scss" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/listings_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/listings_controller.rb" />
-      <change beforePath="$PROJECT_DIR$/app/controllers/pages_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/pages_controller.rb" />
-      <change beforePath="$PROJECT_DIR$/app/models/listing.rb" afterPath="$PROJECT_DIR$/app/models/listing.rb" />
-      <change beforePath="$PROJECT_DIR$/app/models/user.rb" afterPath="$PROJECT_DIR$/app/models/user.rb" />
-      <change beforePath="$PROJECT_DIR$/app/views/listings/description.html.erb" afterPath="$PROJECT_DIR$/app/views/listings/description.html.erb" />
-      <change beforePath="$PROJECT_DIR$/app/views/listings/publish.html.erb" afterPath="$PROJECT_DIR$/app/views/listings/publish.html.erb" />
-      <change beforePath="$PROJECT_DIR$/app/views/listings/show.html.erb" afterPath="$PROJECT_DIR$/app/views/listings/show.html.erb" />
-      <change beforePath="$PROJECT_DIR$/app/views/pages/index.html.erb" afterPath="$PROJECT_DIR$/app/views/pages/index.html.erb" />
-      <change beforePath="$PROJECT_DIR$/app/views/partial/_navbar.html.erb" afterPath="$PROJECT_DIR$/app/views/partial/_navbar.html.erb" />
-      <change beforePath="$PROJECT_DIR$/app/views/partial/_verticalnavbar.html.erb" afterPath="$PROJECT_DIR$/app/views/partial/_verticalnavbar.html.erb" />
-      <change beforePath="$PROJECT_DIR$/app/views/users/show.html.erb" afterPath="$PROJECT_DIR$/app/views/users/show.html.erb" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
-      <change beforePath="$PROJECT_DIR$/db/schema.rb" afterPath="$PROJECT_DIR$/db/schema.rb" />
-      <change beforePath="$PROJECT_DIR$/public/system/photos/images/000/000/002/medium/person-845325_1920.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/system/photos/images/000/000/002/original/person-845325_1920.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/system/photos/images/000/000/002/thumb/person-845325_1920.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/system/photos/images/000/000/004/medium/easter-3270993_1920.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/system/photos/images/000/000/004/original/easter-3270993_1920.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/public/system/photos/images/000/000/004/thumb/easter-3270993_1920.jpg" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -127,7 +89,7 @@
         <entry file="file://$PROJECT_DIR$/app/controllers/pages_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1500">
-              <caret line="100" column="0" lean-forward="true" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
+              <caret line="100" column="0" lean-forward="false" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -157,7 +119,7 @@
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="376">
-              <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+              <caret line="41" column="13" lean-forward="false" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -443,16 +405,15 @@
       <workItem from="1523176524518" duration="25315000" />
       <workItem from="1523315318352" duration="29511000" />
       <workItem from="1523407746329" duration="4861000" />
-      <workItem from="1523414461484" duration="9223000" />
+      <workItem from="1523414461484" duration="9546000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="166750000" />
+    <option name="totallyTimeSpent" value="167073000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18955651" sideWeight="0.49317738" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
@@ -463,7 +424,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26752338" sideWeight="0.5165706" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26752338" sideWeight="0.5165706" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17208967" sideWeight="0.5068226" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -814,7 +775,7 @@
     <entry file="file://$PROJECT_DIR$/app/controllers/pages_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1500">
-          <caret line="100" column="0" lean-forward="true" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
+          <caret line="100" column="0" lean-forward="false" selection-start-line="100" selection-start-column="0" selection-end-line="100" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -838,7 +799,7 @@
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="376">
-          <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
+          <caret line="41" column="13" lean-forward="false" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
           <folding />
         </state>
       </provider>
